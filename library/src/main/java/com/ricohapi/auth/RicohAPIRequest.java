@@ -31,6 +31,7 @@ public class RicohAPIRequest {
 
     public void post(Map<String, String> header, Map<String, String> params) throws IOException {
         connection.setRequestMethod("POST");
+        connection.setDoOutput(true);
         for (String key : header.keySet()) {
             connection.setRequestProperty(key, header.get(key));
         }
