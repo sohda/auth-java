@@ -1,6 +1,6 @@
 # Ricoh Auth Client for Java
 
-This open-source library allows you to integrate Ricoh API's [Authorization and Discovery Service](http://docs.ricohapi.com/docs/authorization-and-discovery-service/) into your Android app.
+This open-source library allows you to integrate Ricoh API's [Authorization and Discovery Service](http://docs.ricohapi.com/docs/authorization-and-discovery-service/) into your Java app.
 
 Learn more at http://docs.ricohapi.com/
 
